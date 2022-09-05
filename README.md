@@ -1,7 +1,6 @@
 
 # Responsive Halloween Website 🎃 
-##Visit site :
- # https://chnadan.github.io/Responsive-halloween-website/
+## Visit site : # https://chnadan.github.io/Responsive-halloween-website/
 ### -Responsive Halloween Website Using HTML, CSS & JavaScript.
 ### -Contains animations when scrolling.
 ### -It has three color designs (green, red and black)
